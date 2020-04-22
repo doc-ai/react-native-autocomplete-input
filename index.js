@@ -236,7 +236,7 @@ const androidStyles = {
 
 const iosStyles = {
   container: {
-    zIndex: 1
+    zIndex: 999999
   },
   inputContainer: {
     ...border
